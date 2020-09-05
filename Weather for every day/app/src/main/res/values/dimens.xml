@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size_main_temp">60sp</dimen>
+    <dimen name="main_temp_margin_top">50dp</dimen>
+    <dimen name="degree_accent_temp">45sp</dimen>
+    <dimen name="degree_accent_margin_start">10dp</dimen>
+    <dimen name="degree_accent_margin_Top">50dp</dimen>
+    <dimen name="text_size_normal">20sp</dimen>
+    <dimen name="margin_top">13dp</dimen>
+    <dimen name="margin_start">15dp</dimen>
+    <dimen name="big_margin_top">64dp</dimen>
+    <dimen name="margin_end">15dp</dimen>
+    <dimen name="degree_text_size">12sp</dimen>
+</resources>
